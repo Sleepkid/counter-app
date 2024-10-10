@@ -1,0 +1,46 @@
+body{
+background-image: url(abacus.jpg);
+text-align: center;
+background-size:cover;
+font-family: "Kanit", serif;
+font-weight: 700;
+font-style: normal;
+margin-top: 100px;
+}
+
+
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: goldenrod;
+   
+    
+
+}
+#increment-btn{
+    background-color: rgb(10, 180, 53);
+}
+#decrement-btn{
+    background-color: rgb(189, 49, 49);
+}
+/* #save-el{
+  
+
+} */
+.container{
+    max-width: fit-content;
+    background: grey;
+    margin: auto;
+    height: 350px;
+    width: 300px;
+    border: 3px solid silver;
+    padding: 5px auto 6px auto;
+    border-radius: 6px;
+}
